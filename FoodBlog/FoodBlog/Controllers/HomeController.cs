@@ -17,6 +17,18 @@ namespace FoodBlog.Controllers
         {
             return View();
         }
+        public IActionResult AllPosts()
+        {
+            return View();
+        }
+        public IActionResult DetailPost()
+        {
+            return View();
+        }
+        public IActionResult AllCategories()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {

@@ -1,5 +1,172 @@
 wwwroot\css\site.css
+wwwroot\css\styleAdmin.css
 wwwroot\favicon.ico
+wwwroot\images\backgroud-image.jpg
+wwwroot\images\category-basic.jpg
+wwwroot\images\category-basic300x300.jpg
+wwwroot\images\category-beef.jpg
+wwwroot\images\category-beef300x300.jpg
+wwwroot\images\category-chicken.png
+wwwroot\images\category-chicken300x300.png
+wwwroot\images\category-easy.jpg
+wwwroot\images\category-easy300x300.jpg
+wwwroot\images\category-pork.jpg
+wwwroot\images\category-pork300x300.jpg
+wwwroot\images\category-seafood.jpg
+wwwroot\images\category-seafood300x300.jpg
+wwwroot\images\category-vege300x300.jpg
+wwwroot\images\catetogy-vege.jpg
+wwwroot\images\dỗi.jpg
+wwwroot\images\hihi.jpg
+wwwroot\images\hoa.jpg
+wwwroot\images\line.png
+wwwroot\images\logo1.png
+wwwroot\images\Quick Beef Stir-Fry.png
+wwwroot\images\Quick Beef Stir-Fry1.png
+wwwroot\images\Quick Beef Stir-Fry2.png
+wwwroot\images\Quick Beef Stir-Fry4.png
+wwwroot\images\Quick Beef Stir-Fry5.png
+wwwroot\images\Quickly and easily.png
+wwwroot\images\Quickly and easily1.png
+wwwroot\images\Quickly and easily2.png
+wwwroot\images\Quickly and easily3.png
+wwwroot\images\Quickly and easily4.png
+wwwroot\images\Quickly and easily5.png
+wwwroot\images\short-line.png
+wwwroot\images\silder1.jpg
+wwwroot\images\silder3.jpg
+wwwroot\images\slider2.jpg
+wwwroot\imagesFood\Air Fryer Honey Mustard Salmon Bites.png
+wwwroot\imagesFood\Air Fryer Honey Mustard Salmon Bites1.png
+wwwroot\imagesFood\Air Fryer Honey Mustard Salmon Bites2.png
+wwwroot\imagesFood\Air Fryer Honey Mustard Salmon Bites3.png
+wwwroot\imagesFood\Air Fryer Honey Mustard Salmon Bites4.png
+wwwroot\imagesFood\Air Fryer Honey Mustard Salmon Bites5.png
+wwwroot\imagesFood\Air Fryer Honey Mustard Salmon Bites6.png
+wwwroot\imagesFood\Air Fryer Honey Mustard Salmon.png
+wwwroot\imagesFood\Air Fryer Honey Mustard Salmon1.png
+wwwroot\imagesFood\Air Fryer Honey Mustard Salmon2.png
+wwwroot\imagesFood\Air Fryer Honey Mustard Salmon3.png
+wwwroot\imagesFood\Air Fryer Honey Mustard Salmon4.png
+wwwroot\imagesFood\Air Fryer Honey Mustard Salmon5.png
+wwwroot\imagesFood\Air Fryer Honey Mustard Salmon6.png
+wwwroot\imagesFood\Air Fryer Lobster Tails with Lemon-Garlic Butter.png
+wwwroot\imagesFood\Air Fryer Lobster Tails with Lemon-Garlic Butter1.png
+wwwroot\imagesFood\Air Fryer Lobster Tails with Lemon-Garlic Butter2.png
+wwwroot\imagesFood\Air Fryer Lobster Tails with Lemon-Garlic Butter3.png
+wwwroot\imagesFood\Air Fryer Lobster Tails with Lemon-Garlic Butter4.png
+wwwroot\imagesFood\Air Fryer Lobster Tails with Lemon-Garlic Butter5.png
+wwwroot\imagesFood\Air Fryer Lobster Tails with Lemon-Garlic Butter6.png
+wwwroot\imagesFood\Air Fryer Lobster Tails with Lemon-Garlic Butter7.png
+wwwroot\imagesFood\Beef and Broccoli Ramen Stir Fry.png
+wwwroot\imagesFood\Beef and Broccoli Ramen Stir Fry1.png
+wwwroot\imagesFood\Beef and Broccoli Ramen Stir Fry2.png
+wwwroot\imagesFood\Beef and Broccoli Ramen Stir Fry3.png
+wwwroot\imagesFood\Beef and Broccoli Ramen Stir Fry4.png
+wwwroot\imagesFood\Beef and Broccoli Ramen Stir Fry5.png
+wwwroot\imagesFood\Beef and Broccoli Ramen Stir Fry6.png
+wwwroot\imagesFood\Beer Batter Fish Made Great.png
+wwwroot\imagesFood\Beer Batter Fish Made Great1.png
+wwwroot\imagesFood\Beer Batter Fish Made Great2.png
+wwwroot\imagesFood\Beer Batter Fish Made Great3.png
+wwwroot\imagesFood\Beer Batter Fish Made Great4.png
+wwwroot\imagesFood\Beer Batter Fish Made Great5.png
+wwwroot\imagesFood\Beer Batter Fish Made Great6.png
+wwwroot\imagesFood\Beet Salad with Goat Cheese.png
+wwwroot\imagesFood\Beet Salad with Goat Cheese1.png
+wwwroot\imagesFood\Beet Salad with Goat Cheese2.png
+wwwroot\imagesFood\Beet Salad with Goat Cheese3.png
+wwwroot\imagesFood\Beet Salad with Goat Cheese4.png
+wwwroot\imagesFood\Blackened Salmon Fillets.png
+wwwroot\imagesFood\Blackened Salmon Fillets1.png
+wwwroot\imagesFood\Blackened Salmon Fillets2.png
+wwwroot\imagesFood\Blackened Salmon Fillets3.png
+wwwroot\imagesFood\Blackened Salmon Fillets4.png
+wwwroot\imagesFood\Blackened Salmon Fillets5.png
+wwwroot\imagesFood\Bloody Mary Pasta Salad.png
+wwwroot\imagesFood\Bloody Mary Pasta Salad1.png
+wwwroot\imagesFood\Bloody Mary Pasta Salad2.png
+wwwroot\imagesFood\Bloody Mary Pasta Salad3.png
+wwwroot\imagesFood\Bloody Mary Pasta Salad4.png
+wwwroot\imagesFood\Bloody Mary Pasta Salad5.png
+wwwroot\imagesFood\Disney's Ratatouille.png
+wwwroot\imagesFood\Disney's Ratatouille2.png
+wwwroot\imagesFood\Disney's Ratatouille3.png
+wwwroot\imagesFood\Disney's Ratatouille4.png
+wwwroot\imagesFood\Disney's Ratatouille5.png
+wwwroot\imagesFood\Honey Garlic Pork Tenderloin.png
+wwwroot\imagesFood\Honey Garlic Pork Tenderloin1.png
+wwwroot\imagesFood\Honey Garlic Pork Tenderloin10.png
+wwwroot\imagesFood\Honey Garlic Pork Tenderloin2.png
+wwwroot\imagesFood\Honey Garlic Pork Tenderloin3.png
+wwwroot\imagesFood\Honey Garlic Pork Tenderloin4.png
+wwwroot\imagesFood\Honey Garlic Pork Tenderloin5.png
+wwwroot\imagesFood\Honey Garlic Pork Tenderloin6.png
+wwwroot\imagesFood\Honey Garlic Pork Tenderloin7.png
+wwwroot\imagesFood\Honey Garlic Pork Tenderloin8.png
+wwwroot\imagesFood\Honey Garlic Pork Tenderloin9.png
+wwwroot\imagesFood\Honey Glazed Chicken.png
+wwwroot\imagesFood\Honey Glazed Chicken1.png
+wwwroot\imagesFood\Honey Glazed Chicken2.png
+wwwroot\imagesFood\Honey Glazed Chicken3.png
+wwwroot\imagesFood\Honey Glazed Chicken4.png
+wwwroot\imagesFood\Honey Glazed Chicken5.png
+wwwroot\imagesFood\Honey Walnut Shrimp.png
+wwwroot\imagesFood\Honey Walnut Shrimp1.png
+wwwroot\imagesFood\Honey Walnut Shrimp2.png
+wwwroot\imagesFood\Honey Walnut Shrimp3.png
+wwwroot\imagesFood\Honey Walnut Shrimp4.png
+wwwroot\imagesFood\Honey Walnut Shrimp5.png
+wwwroot\imagesFood\Honey Walnut Shrimp6.png
+wwwroot\imagesFood\Honey Walnut Shrimp7.png
+wwwroot\imagesFood\Million Dollar Green Beans.png
+wwwroot\imagesFood\Million Dollar Green Beans1.png
+wwwroot\imagesFood\Million Dollar Green Beans2.png
+wwwroot\imagesFood\Million Dollar Green Beans3.png
+wwwroot\imagesFood\Million Dollar Green Beans4.png
+wwwroot\imagesFood\Million Dollar Green Beans5.png
+wwwroot\imagesFood\Million Dollar Green Beans6.png
+wwwroot\imagesFood\Seafood Marinara Pasta.png
+wwwroot\imagesFood\Seafood Marinara Pasta1.png
+wwwroot\imagesFood\Seafood Marinara Pasta3.png
+wwwroot\imagesFood\Seafood Marinara Pasta4.png
+wwwroot\imagesFood\Seafood Marinara Pasta5.png
+wwwroot\imagesFood\Simple Garlic Shrimp.png
+wwwroot\imagesFood\Simple Garlic Shrimp1.png
+wwwroot\imagesFood\Simple Garlic Shrimp2.png
+wwwroot\imagesFood\Simple Garlic Shrimp3.png
+wwwroot\imagesFood\Simple Garlic Shrimp4.png
+wwwroot\imagesFood\Simple Garlic Shrimp5.png
+wwwroot\imagesFood\Simple Garlic Shrimp6.png
+wwwroot\imagesFood\Simple Garlic Shrimp7.png
+wwwroot\imagesFood\Simple Garlic Shrimp8.png
+wwwroot\imagesFood\Slow Cooker Italian Sausage Soup.png
+wwwroot\imagesFood\Slow Cooker Italian Sausage Soup1.png
+wwwroot\imagesFood\Slow Cooker Italian Sausage Soup2.png
+wwwroot\imagesFood\Slow Cooker Italian Sausage Soup3.png
+wwwroot\imagesFood\Slow Cooker Italian Sausage Soup4.png
+wwwroot\imagesFood\Slow Cooker Italian Sausage Soup5.png
+wwwroot\imagesFood\Slow Cooker Italian Sausage Soup6.png
+wwwroot\imagesFood\Spring Roll Bowl.png
+wwwroot\imagesFood\Spring Roll Bowl1.png
+wwwroot\imagesFood\Spring Roll Bowl2.png
+wwwroot\imagesFood\Spring Roll Bowl3.png
+wwwroot\imagesFood\Spring Roll Bowl4.png
+wwwroot\imagesFood\Spring Roll Bowl5.png
+wwwroot\imagesFood\Spring Roll Bowl6.png
+wwwroot\imagesFood\Sweet and Sour Meatballs.png
+wwwroot\imagesFood\Sweet and Sour Meatballs1.png
+wwwroot\imagesFood\Sweet and Sour Meatballs2.png
+wwwroot\imagesFood\Sweet and Sour Meatballs3.png
+wwwroot\imagesFood\Sweet and Sour Meatballs5.png
+wwwroot\imagesFood\Sweet and Sour Meatballs6.png
+wwwroot\imagesFood\Warm Broccoli Caesar Salad.png
+wwwroot\imagesFood\Warm Broccoli Caesar Salad1.png
+wwwroot\imagesFood\Warm Broccoli Caesar Salad3.png
+wwwroot\imagesFood\Warm Broccoli Caesar Salad4.png
+wwwroot\imagesFood\Warm Broccoli Caesar Salad5.png
+wwwroot\imagesFood\Warm Broccoli Caesar Salad6.png
+wwwroot\imagesFood\Warm Broccoli Caesar Salad7.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

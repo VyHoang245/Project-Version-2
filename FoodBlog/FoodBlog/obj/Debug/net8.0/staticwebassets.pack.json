@@ -1,247 +1,915 @@
 {
   "Files": [
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FoodBlog.bundle.scp.css",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FoodBlog.bundle.scp.css",
       "PackagePath": "staticwebassets\\FoodBlog.ivjwpy5k0a.bundle.scp.css"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\css\\styleAdmin.css",
+      "PackagePath": "staticwebassets\\css\\styleAdmin.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Air Fryer Honey Mustard Salmon Bites.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Air Fryer Honey Mustard Salmon Bites.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Air Fryer Honey Mustard Salmon Bites1.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Air Fryer Honey Mustard Salmon Bites1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Air Fryer Honey Mustard Salmon Bites2.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Air Fryer Honey Mustard Salmon Bites2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Air Fryer Honey Mustard Salmon Bites3.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Air Fryer Honey Mustard Salmon Bites3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Air Fryer Honey Mustard Salmon Bites4.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Air Fryer Honey Mustard Salmon Bites4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Air Fryer Honey Mustard Salmon Bites5.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Air Fryer Honey Mustard Salmon Bites5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Air Fryer Honey Mustard Salmon Bites6.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Air Fryer Honey Mustard Salmon Bites6.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Air Fryer Honey Mustard Salmon.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Air Fryer Honey Mustard Salmon.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Air Fryer Honey Mustard Salmon1.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Air Fryer Honey Mustard Salmon1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Air Fryer Honey Mustard Salmon2.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Air Fryer Honey Mustard Salmon2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Air Fryer Honey Mustard Salmon3.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Air Fryer Honey Mustard Salmon3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Air Fryer Honey Mustard Salmon4.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Air Fryer Honey Mustard Salmon4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Air Fryer Honey Mustard Salmon5.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Air Fryer Honey Mustard Salmon5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Air Fryer Honey Mustard Salmon6.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Air Fryer Honey Mustard Salmon6.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Air Fryer Lobster Tails with Lemon-Garlic Butter.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Air Fryer Lobster Tails with Lemon-Garlic Butter.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Air Fryer Lobster Tails with Lemon-Garlic Butter1.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Air Fryer Lobster Tails with Lemon-Garlic Butter1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Air Fryer Lobster Tails with Lemon-Garlic Butter2.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Air Fryer Lobster Tails with Lemon-Garlic Butter2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Air Fryer Lobster Tails with Lemon-Garlic Butter3.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Air Fryer Lobster Tails with Lemon-Garlic Butter3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Air Fryer Lobster Tails with Lemon-Garlic Butter4.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Air Fryer Lobster Tails with Lemon-Garlic Butter4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Air Fryer Lobster Tails with Lemon-Garlic Butter5.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Air Fryer Lobster Tails with Lemon-Garlic Butter5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Air Fryer Lobster Tails with Lemon-Garlic Butter6.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Air Fryer Lobster Tails with Lemon-Garlic Butter6.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Air Fryer Lobster Tails with Lemon-Garlic Butter7.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Air Fryer Lobster Tails with Lemon-Garlic Butter7.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Beef and Broccoli Ramen Stir Fry.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Beef and Broccoli Ramen Stir Fry.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Beef and Broccoli Ramen Stir Fry1.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Beef and Broccoli Ramen Stir Fry1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Beef and Broccoli Ramen Stir Fry2.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Beef and Broccoli Ramen Stir Fry2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Beef and Broccoli Ramen Stir Fry3.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Beef and Broccoli Ramen Stir Fry3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Beef and Broccoli Ramen Stir Fry4.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Beef and Broccoli Ramen Stir Fry4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Beef and Broccoli Ramen Stir Fry5.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Beef and Broccoli Ramen Stir Fry5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Beef and Broccoli Ramen Stir Fry6.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Beef and Broccoli Ramen Stir Fry6.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Beer Batter Fish Made Great.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Beer Batter Fish Made Great.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Beer Batter Fish Made Great1.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Beer Batter Fish Made Great1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Beer Batter Fish Made Great2.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Beer Batter Fish Made Great2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Beer Batter Fish Made Great3.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Beer Batter Fish Made Great3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Beer Batter Fish Made Great4.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Beer Batter Fish Made Great4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Beer Batter Fish Made Great5.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Beer Batter Fish Made Great5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Beer Batter Fish Made Great6.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Beer Batter Fish Made Great6.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Beet Salad with Goat Cheese.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Beet Salad with Goat Cheese.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Beet Salad with Goat Cheese1.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Beet Salad with Goat Cheese1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Beet Salad with Goat Cheese2.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Beet Salad with Goat Cheese2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Beet Salad with Goat Cheese3.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Beet Salad with Goat Cheese3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Beet Salad with Goat Cheese4.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Beet Salad with Goat Cheese4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Blackened Salmon Fillets.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Blackened Salmon Fillets.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Blackened Salmon Fillets1.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Blackened Salmon Fillets1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Blackened Salmon Fillets2.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Blackened Salmon Fillets2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Blackened Salmon Fillets3.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Blackened Salmon Fillets3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Blackened Salmon Fillets4.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Blackened Salmon Fillets4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Blackened Salmon Fillets5.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Blackened Salmon Fillets5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Bloody Mary Pasta Salad.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Bloody Mary Pasta Salad.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Bloody Mary Pasta Salad1.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Bloody Mary Pasta Salad1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Bloody Mary Pasta Salad2.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Bloody Mary Pasta Salad2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Bloody Mary Pasta Salad3.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Bloody Mary Pasta Salad3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Bloody Mary Pasta Salad4.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Bloody Mary Pasta Salad4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Bloody Mary Pasta Salad5.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Bloody Mary Pasta Salad5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Disney's Ratatouille.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Disney's Ratatouille.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Disney's Ratatouille2.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Disney's Ratatouille2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Disney's Ratatouille3.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Disney's Ratatouille3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Disney's Ratatouille4.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Disney's Ratatouille4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Disney's Ratatouille5.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Disney's Ratatouille5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Honey Garlic Pork Tenderloin.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Honey Garlic Pork Tenderloin.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Honey Garlic Pork Tenderloin1.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Honey Garlic Pork Tenderloin1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Honey Garlic Pork Tenderloin10.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Honey Garlic Pork Tenderloin10.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Honey Garlic Pork Tenderloin2.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Honey Garlic Pork Tenderloin2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Honey Garlic Pork Tenderloin3.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Honey Garlic Pork Tenderloin3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Honey Garlic Pork Tenderloin4.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Honey Garlic Pork Tenderloin4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Honey Garlic Pork Tenderloin5.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Honey Garlic Pork Tenderloin5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Honey Garlic Pork Tenderloin6.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Honey Garlic Pork Tenderloin6.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Honey Garlic Pork Tenderloin7.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Honey Garlic Pork Tenderloin7.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Honey Garlic Pork Tenderloin8.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Honey Garlic Pork Tenderloin8.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Honey Garlic Pork Tenderloin9.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Honey Garlic Pork Tenderloin9.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Honey Glazed Chicken.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Honey Glazed Chicken.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Honey Glazed Chicken1.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Honey Glazed Chicken1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Honey Glazed Chicken2.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Honey Glazed Chicken2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Honey Glazed Chicken3.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Honey Glazed Chicken3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Honey Glazed Chicken4.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Honey Glazed Chicken4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Honey Glazed Chicken5.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Honey Glazed Chicken5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Honey Walnut Shrimp.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Honey Walnut Shrimp.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Honey Walnut Shrimp1.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Honey Walnut Shrimp1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Honey Walnut Shrimp2.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Honey Walnut Shrimp2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Honey Walnut Shrimp3.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Honey Walnut Shrimp3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Honey Walnut Shrimp4.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Honey Walnut Shrimp4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Honey Walnut Shrimp5.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Honey Walnut Shrimp5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Honey Walnut Shrimp6.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Honey Walnut Shrimp6.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Honey Walnut Shrimp7.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Honey Walnut Shrimp7.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Million Dollar Green Beans.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Million Dollar Green Beans.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Million Dollar Green Beans1.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Million Dollar Green Beans1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Million Dollar Green Beans2.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Million Dollar Green Beans2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Million Dollar Green Beans3.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Million Dollar Green Beans3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Million Dollar Green Beans4.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Million Dollar Green Beans4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Million Dollar Green Beans5.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Million Dollar Green Beans5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Million Dollar Green Beans6.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Million Dollar Green Beans6.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Seafood Marinara Pasta.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Seafood Marinara Pasta.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Seafood Marinara Pasta1.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Seafood Marinara Pasta1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Seafood Marinara Pasta3.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Seafood Marinara Pasta3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Seafood Marinara Pasta4.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Seafood Marinara Pasta4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Seafood Marinara Pasta5.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Seafood Marinara Pasta5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Simple Garlic Shrimp.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Simple Garlic Shrimp.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Simple Garlic Shrimp1.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Simple Garlic Shrimp1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Simple Garlic Shrimp2.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Simple Garlic Shrimp2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Simple Garlic Shrimp3.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Simple Garlic Shrimp3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Simple Garlic Shrimp4.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Simple Garlic Shrimp4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Simple Garlic Shrimp5.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Simple Garlic Shrimp5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Simple Garlic Shrimp6.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Simple Garlic Shrimp6.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Simple Garlic Shrimp7.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Simple Garlic Shrimp7.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Simple Garlic Shrimp8.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Simple Garlic Shrimp8.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Slow Cooker Italian Sausage Soup.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Slow Cooker Italian Sausage Soup.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Slow Cooker Italian Sausage Soup1.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Slow Cooker Italian Sausage Soup1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Slow Cooker Italian Sausage Soup2.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Slow Cooker Italian Sausage Soup2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Slow Cooker Italian Sausage Soup3.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Slow Cooker Italian Sausage Soup3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Slow Cooker Italian Sausage Soup4.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Slow Cooker Italian Sausage Soup4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Slow Cooker Italian Sausage Soup5.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Slow Cooker Italian Sausage Soup5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Slow Cooker Italian Sausage Soup6.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Slow Cooker Italian Sausage Soup6.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Spring Roll Bowl.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Spring Roll Bowl.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Spring Roll Bowl1.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Spring Roll Bowl1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Spring Roll Bowl2.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Spring Roll Bowl2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Spring Roll Bowl3.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Spring Roll Bowl3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Spring Roll Bowl4.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Spring Roll Bowl4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Spring Roll Bowl5.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Spring Roll Bowl5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Spring Roll Bowl6.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Spring Roll Bowl6.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Sweet and Sour Meatballs.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Sweet and Sour Meatballs.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Sweet and Sour Meatballs1.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Sweet and Sour Meatballs1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Sweet and Sour Meatballs2.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Sweet and Sour Meatballs2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Sweet and Sour Meatballs3.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Sweet and Sour Meatballs3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Sweet and Sour Meatballs5.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Sweet and Sour Meatballs5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Sweet and Sour Meatballs6.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Sweet and Sour Meatballs6.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Warm Broccoli Caesar Salad.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Warm Broccoli Caesar Salad.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Warm Broccoli Caesar Salad1.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Warm Broccoli Caesar Salad1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Warm Broccoli Caesar Salad3.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Warm Broccoli Caesar Salad3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Warm Broccoli Caesar Salad4.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Warm Broccoli Caesar Salad4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Warm Broccoli Caesar Salad5.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Warm Broccoli Caesar Salad5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Warm Broccoli Caesar Salad6.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Warm Broccoli Caesar Salad6.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\imagesFood\\Warm Broccoli Caesar Salad7.png",
+      "PackagePath": "staticwebassets\\imagesFood\\Warm Broccoli Caesar Salad7.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\Quick Beef Stir-Fry.png",
+      "PackagePath": "staticwebassets\\images\\Quick Beef Stir-Fry.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\Quick Beef Stir-Fry1.png",
+      "PackagePath": "staticwebassets\\images\\Quick Beef Stir-Fry1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\Quick Beef Stir-Fry2.png",
+      "PackagePath": "staticwebassets\\images\\Quick Beef Stir-Fry2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\Quick Beef Stir-Fry4.png",
+      "PackagePath": "staticwebassets\\images\\Quick Beef Stir-Fry4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\Quick Beef Stir-Fry5.png",
+      "PackagePath": "staticwebassets\\images\\Quick Beef Stir-Fry5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\Quickly and easily.png",
+      "PackagePath": "staticwebassets\\images\\Quickly and easily.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\Quickly and easily1.png",
+      "PackagePath": "staticwebassets\\images\\Quickly and easily1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\Quickly and easily2.png",
+      "PackagePath": "staticwebassets\\images\\Quickly and easily2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\Quickly and easily3.png",
+      "PackagePath": "staticwebassets\\images\\Quickly and easily3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\Quickly and easily4.png",
+      "PackagePath": "staticwebassets\\images\\Quickly and easily4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\Quickly and easily5.png",
+      "PackagePath": "staticwebassets\\images\\Quickly and easily5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\backgroud-image.jpg",
+      "PackagePath": "staticwebassets\\images\\backgroud-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\category-basic.jpg",
+      "PackagePath": "staticwebassets\\images\\category-basic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\category-basic300x300.jpg",
+      "PackagePath": "staticwebassets\\images\\category-basic300x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\category-beef.jpg",
+      "PackagePath": "staticwebassets\\images\\category-beef.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\category-beef300x300.jpg",
+      "PackagePath": "staticwebassets\\images\\category-beef300x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\category-chicken.png",
+      "PackagePath": "staticwebassets\\images\\category-chicken.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\category-chicken300x300.png",
+      "PackagePath": "staticwebassets\\images\\category-chicken300x300.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\category-easy.jpg",
+      "PackagePath": "staticwebassets\\images\\category-easy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\category-easy300x300.jpg",
+      "PackagePath": "staticwebassets\\images\\category-easy300x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\category-pork.jpg",
+      "PackagePath": "staticwebassets\\images\\category-pork.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\category-pork300x300.jpg",
+      "PackagePath": "staticwebassets\\images\\category-pork300x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\category-seafood.jpg",
+      "PackagePath": "staticwebassets\\images\\category-seafood.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\category-seafood300x300.jpg",
+      "PackagePath": "staticwebassets\\images\\category-seafood300x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\category-vege300x300.jpg",
+      "PackagePath": "staticwebassets\\images\\category-vege300x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\catetogy-vege.jpg",
+      "PackagePath": "staticwebassets\\images\\catetogy-vege.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\dỗi.jpg",
+      "PackagePath": "staticwebassets\\images\\dỗi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\hihi.jpg",
+      "PackagePath": "staticwebassets\\images\\hihi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\hoa.jpg",
+      "PackagePath": "staticwebassets\\images\\hoa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\line.png",
+      "PackagePath": "staticwebassets\\images\\line.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\logo1.png",
+      "PackagePath": "staticwebassets\\images\\logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\short-line.png",
+      "PackagePath": "staticwebassets\\images\\short-line.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\silder1.jpg",
+      "PackagePath": "staticwebassets\\images\\silder1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\silder3.jpg",
+      "PackagePath": "staticwebassets\\images\\silder3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\images\\slider2.jpg",
+      "PackagePath": "staticwebassets\\images\\slider2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\CSE 443 - .Net\\Lab3\\FoodBlog\\FoodBlog\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

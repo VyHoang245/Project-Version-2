@@ -2897,23 +2897,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vygir\\.nuget\\packages\\": {},
+    "C:\\Users\\User\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSE 443 - .Net\\FoodBlog\\FoodBlog\\FoodBlog.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\FoodBlog.csproj",
       "projectName": "FoodBlog",
-      "projectPath": "D:\\CSE 443 - .Net\\FoodBlog\\FoodBlog\\FoodBlog.csproj",
-      "packagesPath": "C:\\Users\\vygir\\.nuget\\packages\\",
-      "outputPath": "D:\\CSE 443 - .Net\\FoodBlog\\FoodBlog\\obj\\",
+      "projectPath": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\FoodBlog.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\vygir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

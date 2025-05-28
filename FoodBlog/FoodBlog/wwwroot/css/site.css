@@ -235,7 +235,7 @@ a {
         }
 
 
-    .tag1.vegan {
+    .tag1.vegetables {
         /* background-color: #70c36e; */
         background: linear-gradient(to left, #70c36e 50%, #66b164 50%);
         background-size: 200% 100%;
@@ -243,7 +243,7 @@ a {
         transition: background-position 0.4s ease;
     }
 
-        .tag1.vegan:hover {
+        .tag1.vegetables:hover {
             background-position: left;
         }
 
@@ -535,7 +535,7 @@ a {
     }
 
 
-.tag.vegan {
+.tag.vegetables {
     /* background-color: #70c36e; */
     background: linear-gradient(to left, #70c36e 50%, #66b164 50%);
     background-size: 200% 100%;
@@ -543,7 +543,7 @@ a {
     transition: background-position 0.4s ease;
 }
 
-    .tag.vegan:hover {
+    .tag.vegetables:hover {
         background-position: left;
     }
 

@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49A068C4-706F-4041-80AD-61EDCEF1828B}|FoodBlog\\FoodBlog.csproj|c:\\users\\user\\desktop\\cse_443\\project-version-2\\foodblog\\foodblog\\views\\home\\allposts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{49A068C4-706F-4041-80AD-61EDCEF1828B}|FoodBlog\\FoodBlog.csproj|solutionrelative:foodblog\\views\\home\\allposts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{49A068C4-706F-4041-80AD-61EDCEF1828B}|FoodBlog\\FoodBlog.csproj|c:\\users\\user\\desktop\\cse_443\\project-version-2\\foodblog\\foodblog\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{49A068C4-706F-4041-80AD-61EDCEF1828B}|FoodBlog\\FoodBlog.csproj|solutionrelative:foodblog\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49A068C4-706F-4041-80AD-61EDCEF1828B}|FoodBlog\\FoodBlog.csproj|c:\\users\\user\\desktop\\cse_443\\project-version-2\\foodblog\\foodblog\\views\\home\\detailpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{49A068C4-706F-4041-80AD-61EDCEF1828B}|FoodBlog\\FoodBlog.csproj|solutionrelative:foodblog\\views\\home\\detailpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49A068C4-706F-4041-80AD-61EDCEF1828B}|FoodBlog\\FoodBlog.csproj|c:\\users\\user\\desktop\\cse_443\\project-version-2\\foodblog\\foodblog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49A068C4-706F-4041-80AD-61EDCEF1828B}|FoodBlog\\FoodBlog.csproj|solutionrelative:foodblog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49A068C4-706F-4041-80AD-61EDCEF1828B}|FoodBlog\\FoodBlog.csproj|c:\\users\\user\\desktop\\cse_443\\project-version-2\\foodblog\\foodblog\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{49A068C4-706F-4041-80AD-61EDCEF1828B}|FoodBlog\\FoodBlog.csproj|solutionrelative:foodblog\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{49A068C4-706F-4041-80AD-61EDCEF1828B}|FoodBlog\\FoodBlog.csproj|c:\\users\\user\\desktop\\cse_443\\project-version-2\\foodblog\\foodblog\\views\\home\\allposts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49A068C4-706F-4041-80AD-61EDCEF1828B}|FoodBlog\\FoodBlog.csproj|solutionrelative:foodblog\\views\\home\\allposts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49A068C4-706F-4041-80AD-61EDCEF1828B}|FoodBlog\\FoodBlog.csproj|c:\\users\\user\\desktop\\cse_443\\project-version-2\\foodblog\\foodblog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{49A068C4-706F-4041-80AD-61EDCEF1828B}|FoodBlog\\FoodBlog.csproj|solutionrelative:foodblog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A068C4-706F-4041-80AD-61EDCEF1828B}|FoodBlog\\FoodBlog.csproj|c:\\users\\user\\desktop\\cse_443\\project-version-2\\foodblog\\foodblog\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49A068C4-706F-4041-80AD-61EDCEF1828B}|FoodBlog\\FoodBlog.csproj|solutionrelative:foodblog\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A068C4-706F-4041-80AD-61EDCEF1828B}|FoodBlog\\FoodBlog.csproj|c:\\users\\user\\desktop\\cse_443\\project-version-2\\foodblog\\foodblog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49A068C4-706F-4041-80AD-61EDCEF1828B}|FoodBlog\\FoodBlog.csproj|solutionrelative:foodblog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49A068C4-706F-4041-80AD-61EDCEF1828B}|FoodBlog\\FoodBlog.csproj|c:\\users\\user\\desktop\\cse_443\\project-version-2\\foodblog\\foodblog\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,17 +74,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FoodBlog\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FoodBlog\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAC8CAAAAAAAAAAAcwDQCAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T04:29:06.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AllPosts.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\Views\\Home\\AllPosts.cshtml",
               "RelativeDocumentMoniker": "FoodBlog\\Views\\Home\\AllPosts.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\Views\\Home\\AllPosts.cshtml*",
-              "RelativeToolTip": "FoodBlog\\Views\\Home\\AllPosts.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\Views\\Home\\AllPosts.cshtml",
+              "RelativeToolTip": "FoodBlog\\Views\\Home\\AllPosts.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwFgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-28T04:21:05.309Z",
               "EditorCaption": ""
@@ -91,55 +108,54 @@
               "Title": "DetailPost.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\Views\\Home\\DetailPost.cshtml",
               "RelativeDocumentMoniker": "FoodBlog\\Views\\Home\\DetailPost.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\Views\\Home\\DetailPost.cshtml*",
-              "RelativeToolTip": "FoodBlog\\Views\\Home\\DetailPost.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\Views\\Home\\DetailPost.cshtml",
+              "RelativeToolTip": "FoodBlog\\Views\\Home\\DetailPost.cshtml",
+              "ViewState": "AgIAALwAAAAAAAAAAAAcwMIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-28T04:21:00.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "FoodBlog\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\Controllers\\HomeController.cs*",
-              "RelativeToolTip": "FoodBlog\\Controllers\\HomeController.cs*",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FoodBlog\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T04:20:19.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T04:20:19.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "FoodBlog\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "FoodBlog\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAALcAAAAAAAAAAAAAAMEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-28T04:14:26.118Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "FoodBlog\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "FoodBlog\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAALIEAAAAAAAAAAAQwNIEAAAFAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\css\\site.css*",
+              "RelativeToolTip": "FoodBlog\\wwwroot\\css\\site.css*",
+              "ViewState": "AgIAAAkEAAAAAAAAAAAvwAkEAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-05-28T04:08:42.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "WishList.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\Models\\WishList.cs",
               "RelativeDocumentMoniker": "FoodBlog\\Models\\WishList.cs",
@@ -151,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "PostCategory.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\Models\\PostCategory.cs",
               "RelativeDocumentMoniker": "FoodBlog\\Models\\PostCategory.cs",
@@ -163,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Step.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\Models\\Step.cs",
               "RelativeDocumentMoniker": "FoodBlog\\Models\\Step.cs",
@@ -175,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Post.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\Models\\Post.cs",
               "RelativeDocumentMoniker": "FoodBlog\\Models\\Post.cs",
@@ -187,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\Models\\Category.cs",
               "RelativeDocumentMoniker": "FoodBlog\\Models\\Category.cs",
@@ -195,12 +211,11 @@
               "RelativeToolTip": "FoodBlog\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T03:55:32.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T03:55:32.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\Models\\User.cs",
               "RelativeDocumentMoniker": "FoodBlog\\Models\\User.cs",
@@ -208,12 +223,11 @@
               "RelativeToolTip": "FoodBlog\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T03:54:58.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T03:54:58.757Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\Models\\Role.cs",
               "RelativeDocumentMoniker": "FoodBlog\\Models\\Role.cs",
@@ -225,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\appsettings.json",
               "RelativeDocumentMoniker": "FoodBlog\\appsettings.json",
@@ -237,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\Program.cs",
               "RelativeDocumentMoniker": "FoodBlog\\Program.cs",
@@ -249,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "FoodBlogContext.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\Models\\FoodBlogContext.cs",
               "RelativeDocumentMoniker": "FoodBlog\\Models\\FoodBlogContext.cs",

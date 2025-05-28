@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CclrJqJgKuByUkdZbycoOBy168iyFmUoEu4kIxVSLl0=",
+  "Hash": "/FWqnhKJOG+DjKJSo6KRWfVp4h03iUKv/437xWDCbIA=",
   "Source": "FoodBlog",
   "BasePath": "_content/FoodBlog",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4be3rpgfxg",
-      "Integrity": "MCpoOatGprxb41MihwKB2WLvKAg40YYbg88rGxoS/Wk=",
+      "Fingerprint": "de0rm3dpls",
+      "Integrity": "O/OLUlicnIGRhUdKrKYDydXUAIVTzNzn9xFkcFiUbwc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -4828,51 +4828,6 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.4be3rpgfxg.css",
-      "AssetFile": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "27563"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MCpoOatGprxb41MihwKB2WLvKAg40YYbg88rGxoS/Wk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 04:19:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4be3rpgfxg"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-MCpoOatGprxb41MihwKB2WLvKAg40YYbg88rGxoS/Wk="
-        }
-      ]
-    },
-    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -4883,7 +4838,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "27563"
+          "Value": "27583"
         },
         {
           "Name": "Content-Type",
@@ -4891,11 +4846,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MCpoOatGprxb41MihwKB2WLvKAg40YYbg88rGxoS/Wk=\""
+          "Value": "\"O/OLUlicnIGRhUdKrKYDydXUAIVTzNzn9xFkcFiUbwc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 04:19:56 GMT"
+          "Value": "Wed, 28 May 2025 04:38:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4905,7 +4860,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MCpoOatGprxb41MihwKB2WLvKAg40YYbg88rGxoS/Wk="
+          "Value": "sha256-O/OLUlicnIGRhUdKrKYDydXUAIVTzNzn9xFkcFiUbwc="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.de0rm3dpls.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\CSE_443\\Project-Version-2\\FoodBlog\\FoodBlog\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27583"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O/OLUlicnIGRhUdKrKYDydXUAIVTzNzn9xFkcFiUbwc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 04:38:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "de0rm3dpls"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O/OLUlicnIGRhUdKrKYDydXUAIVTzNzn9xFkcFiUbwc="
         }
       ]
     },

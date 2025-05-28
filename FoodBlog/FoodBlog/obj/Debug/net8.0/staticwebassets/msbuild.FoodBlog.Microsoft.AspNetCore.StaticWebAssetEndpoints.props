@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/FoodBlog/css/site.4be3rpgfxg.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4be3rpgfxg"},{"Name":"integrity","Value":"sha256-MCpoOatGprxb41MihwKB2WLvKAg40YYbg88rGxoS/Wk="},{"Name":"label","Value":"_content/FoodBlog/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"27563"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022MCpoOatGprxb41MihwKB2WLvKAg40YYbg88rGxoS/Wk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 04:19:56 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/FoodBlog/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MCpoOatGprxb41MihwKB2WLvKAg40YYbg88rGxoS/Wk="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"27563"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022MCpoOatGprxb41MihwKB2WLvKAg40YYbg88rGxoS/Wk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 04:19:56 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-O/OLUlicnIGRhUdKrKYDydXUAIVTzNzn9xFkcFiUbwc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"27583"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022O/OLUlicnIGRhUdKrKYDydXUAIVTzNzn9xFkcFiUbwc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 04:38:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FoodBlog/css/site.de0rm3dpls.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"de0rm3dpls"},{"Name":"integrity","Value":"sha256-O/OLUlicnIGRhUdKrKYDydXUAIVTzNzn9xFkcFiUbwc="},{"Name":"label","Value":"_content/FoodBlog/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"27583"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022O/OLUlicnIGRhUdKrKYDydXUAIVTzNzn9xFkcFiUbwc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 04:38:24 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/FoodBlog/css/styleAdmin.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\styleAdmin.css'))</AssetFile>
